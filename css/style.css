@@ -10,14 +10,10 @@
 body {
 	width: 78.2%;
 	margin: 10.75%;
-	/* width: 1130px;
-	 	margin: 155px auto 155px; */
 	color: #444444;
   	font-size: 14px;
-  	/* font-family: "Helvetica Neue"; */
-  	font-family: Roboto;
+   	font-family: Roboto;
   	line-height: 20px;
-  	/* border: 1px solid black; */
 }
 
 h1 {
@@ -747,7 +743,6 @@ li {
 		font-size: 16px;
 		padding: 9px 0 9px 7px;
 		border: 1px solid #eeeeee;
-		/* display: inline-block; */
 		float: left;
 		margin-bottom: 15px;
 		margin-right: 3px;
@@ -757,9 +752,7 @@ li {
 		font-size: 16px;
 		font-weight: 500;
 		border: 1px solid #eeeeee;
-		/* display: inline-block; */
 		float: left;
-		margin-right: px;
 		padding: 9px 0px;
 		width: 33.2%;
 		background-color: #eeeeee;
@@ -818,7 +811,6 @@ li {
 
 	.d-menus-block__first-item{
 		margin-right: 9.71%;
-		/* display: inline-block; */
 		float: left;
 	}
 	
@@ -851,7 +843,6 @@ li {
 
 	.d-menus-block__second-item  {
 		margin-right: 8.75%;
-		/* display: inline-block; */
 		float: left;
 	}
 
@@ -984,7 +975,6 @@ li {
 		float:left;
 		width: 2px;
 		height: 112px;
-		
 		background-color: #eeeeee;
 		margin-right: 3%;
 	}
@@ -1050,18 +1040,6 @@ li {
 	}
 
 
-/* @media screen and (max-width: 1366px) {
-		body {
-				width: 1000px;
-	 	margin: 155px auto 0;
-		}
-		.main-page {
-	width: 1000px;
-	margin: 0 auto;
-	overflow: hidden;
-} 
-
-	}*/
 
 	@media screen and (max-width: 480px) {
 		
@@ -1088,7 +1066,6 @@ li {
 		display: block;
 		text-align: center;
 		font-size: 16px;
-		/* border: 1px solid black; */
 		background-color: #eeeeee;
 		}
 
@@ -1262,24 +1239,6 @@ li {
 
 		}
 
-		/* .d-menus-block__third-item,.d-menus-block__second-item,
-		  {
-			float: left;
-		
-		} */
-		
-
-		
-		/* .d-menus-block-third-subitem--color-text {
-			padding-right: 0;
-		}
-		.d-menus-block-second-item--color-bg,
-		.d-menus-block-second-item {
-			margin-right: 9%;
-		}
-		.d-menus-block-second-item--color-text {
-			margin-right: 0;
-		} */
 		.e-page-block {
 			margin: 0 auto;
 			margin-top: 35px;
@@ -1299,9 +1258,7 @@ li {
 		.e-divider-list {
 			width: 100%;
 		}
-		/* .e-divider-vertical-second {
-			margin-right: 0;
-		} */
+		
 		.e-divider-vertical-second {
 			margin-right: 15px;
 		}
